@@ -5,7 +5,7 @@
 本项目基于 [GuanyuPlayer](https://github.com/PizzaDark/GuanyuPlayer) 项目进行二次修改开发
 
 - **原作者**：[PizzaDark](https://space.bilibili.com/6297797)
-- **二次开发**：Liko
+- **二次开发**：Liko(https://space.bilibili.com/507900516)
 
 ## 功能介绍
 
