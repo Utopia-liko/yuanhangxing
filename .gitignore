@@ -2,4 +2,5 @@
 .venv1/
 *.exe
 *.apk
-.git/
+.git/build/build/远航星播放器.pkg
+*.pkg
